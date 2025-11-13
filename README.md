@@ -4,12 +4,12 @@
 Bem-vindo(a) ao meu GitHub! 💜  
 Aqui você vai encontrar projetos e conteúdos relacionados a HTML, CSS e SEO.
 ---
-##🌐 Sobre mim
+## 🌐 Sobre mim
 
 Sou uma estudante entusiasmada com o mundo do desenvolvimento web.  
 Adoro aprender novas linguagens e explorar códigos.
 
-##✨ O que eu mais gosto:
+## ✨ O que eu mais gosto:
 - Estudar sobre **computação** 💻   
 - Aprender e evoluir um pouquinho a cada dia 💪
  ---
@@ -21,7 +21,7 @@ Adoro aprender novas linguagens e explorar códigos.
 - 💻 Códigos simples e organizados para estudo  
 
 ---
- ##🚀 Tecnologias que uso e estudo
+ ## 🚀 Tecnologias que uso e estudo
 
 - **HTML5**  
 - **CSS3**  
