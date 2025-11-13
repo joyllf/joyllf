@@ -3,7 +3,7 @@
 
 Bem-vindo(a) ao meu GitHub! 💜  
 Aqui você vai encontrar projetos e conteúdos relacionados a HTML, CSS e SEO.
-
+---
 ##🌐 Sobre mim
 
 Sou uma estudante entusiasmada com o mundo do desenvolvimento web.  
